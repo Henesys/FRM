@@ -30,7 +30,7 @@ Notes available on this repository has been created with [Obsidian](https://obsi
 
 ## Part 1
 
-- [[Part 1/Foundations of Risk Management/README|Foundations of Risk Management (20%)]]
+- [Foundations of Risk Management (20%)]("Part 1/Foundations of Risk Management/README.md")
 	- Basic risk types, measurement, and management tools
 	- Creating value with risk management
 	- Risk governance and corporate governance
