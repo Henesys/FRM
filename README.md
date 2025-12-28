@@ -1,11 +1,24 @@
+#part1
+#foundations_of_risk_management 
+#quantitative_analysis 
+#financial_markets_and_products 
+#valuation_and_risk_protocols 
+
+#part2 
+#market_risk_measurement_and_management
+#credit_risk_measurement_and_management
+#operational_risk_and_resilience
+#liquidity_and_treasury_risk_measurement_and_management
+#risk_management_and_investment_management
+#current_issues_in_financial_markets
+
 # FRM
 Repository containing notes, simulations and code in preparation for the FRM.
-
 ## Exam
 
 ![Exam Information](Exam.png)
 
-- Part I
+- Part I 
 	- 100 questions
 	- 4 hours
 - Part 2
@@ -14,7 +27,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 
 ## Part 1
 
-- Foundations of Risk Management (20%)
+- [[Part 1/Foundations of Risk Management/README|Foundations of Risk Management (20%)]]
 	- Basic risk types, measurement, and management tools
 	- Creating value with risk management
 	- Risk governance and corporate governance
@@ -26,7 +39,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Financial disasters and risk management failures
 	- Ethics and the GARP Code of Conduct
 	- Enterprise risk management (ERM)
-- Quantitative Analysis (20%)
+- [[Part 1/Quantitative Analysis/README|Quantitative Analysis (20%)]]
 	- Discrete and continuous probability distributions
 	- Estimating the parameters of distributions
 	- Population and sample statistics
@@ -37,7 +50,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Time series analysis and forecasting
 	- Simulation methods
 	- Machine learning
-- Financial Markets and Products (30%)
+- [[Part 1/Financial Markets and Products/README|Financial Markets and Products (30%)]]
 	- Structures and functions of financial institutions
 	- Structure and mechanics of over-the-counter (OTC) and exchange markets
 	- Structure, mechanics, and valuation of forwards, futures, swaps, and options
@@ -46,7 +59,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Foreign exchange risk
 	- Corporate bonds
 	- Mortgage-backed securities (MBS)
-- Valuation and Risk Protocols (30%)
+- [[Part 1/Valuation and Risk Protocols/README|Valuation and Risk Protocols (30%)]]
 	- Value-at-Risk (VaR)
 	- Expected shortfall (ES)
 	- Estimating volatility and correlation
@@ -62,7 +75,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 
 ## Part 2
 
-- Market Risk Measurement and Management (20%)
+- [[Part 2/Market Risk Measurement and Management/README|Market Risk Measurement and Management (20%)]]
 	- VaR and other risk measures
 		- Parametric and non-parametric methods of estimation
 		- VaR mapping
@@ -73,7 +86,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Term structure models of interest rates
 	- Volatility: smiles and term structures
 	- Fundamental Review of the Trading Book (FRTB)
-- Credit Risk Measurement and Management (20%)
+- [[Part 2/Credit Risk Measurement and Management/README|README]]
 	- Credit analysis
 	- Default risk: quantitative methodologies
 	- Expected and unexpected loss
