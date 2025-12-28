@@ -31,13 +31,31 @@
 		- Apply appropriate methods to hedge operational and financial risks, including pricing, foreign currency, and interest rate risk.
 		- Assess the impact of risk management tools and instruments, including risk limits and derivatives.
 	- Chapter 3. The Governance of Risk Management 
-		- 
+		- Explain changes in regulations and corporate risk governance that occurred as a result of the 2007-2009 financial crisis.
+		- Describe best practices for the governance of a firm’s risk management processes.
+		- Explain the risk management role and responsibilities of a firm’s board of directors.
+		- Evaluate the relationship between a firm’s risk appetite and its business strategy, including the role of incentives
+		- Illustrate the interdependence of functional units within a firm as it relates to risk management.
+		- Assess the role and responsibilities of a firm’s audit committee.
 	- Chapter 4. Credit Risk Transfer Mechanisms
-		- 
+		- Compare different types of credit derivatives, explain their applications, and describe their advantages.
+		- Explain different traditional approaches or mechanisms that firms can use to help mitigate credit risk.
+		- Evaluate the role of credit derivatives in the 2007-2009 financial crisis and explain changes in the credit derivative market that occurred as a result of the crisis.
+		- Explain the process of securitization, describe a special purpose vehicle (SPV), and assess the risk of different business models that banks can use for securitized products.
 	- Chapter 5. Modern Portfolio Theory (MPT) and the Capital Asset Pricing Model (CAPM)
-		- 
+		- Explain Modern Portfolio Theory and interpret the Markowitz efficient frontier.
+		- Interpret the derivation and components of the CAPM.
+		- Describe the assumptions underlying the CAPM.
+		- Interpret and compare the capital market line and the security market line.
+		- Apply the CAPM in calculating the expected return on an asset.
+		- Interpret beta and calculate the beta of a single asset or portfolio
+		- Calculate, compare, and interpret the following performance measures: the Sharpe performance index, the Treynor performance index, the Jensen performance index, the tracking error, information ratio, and Sortino ratio.
 	- Chapter 6. The Arbitrage Pricing Theory and Multifactor Models of Risk and Return
-		- 
+		- Explain the Arbitrage Pricing Theory (APT), describe its assumptions, and compare the APT to the CAPM.
+		- Describe the inputs, including factor betas, to a multifactor model and explain the challenges of using multifactor models in hedging.
+		- Calculate the expected return of an asset using a single-factor and a multifactor model.
+		- Explain how to construct a portfolio to hedge exposure to multiple factors.
+		- Describe and apply the Fama-French three-factor model in estimating asset returns.
 	- Chapter 7. Principles for Effective Data Aggregation and Risk Reporting 
 		- 
 	- Chapter 8. Enterprise Risk Management and Future Trends
