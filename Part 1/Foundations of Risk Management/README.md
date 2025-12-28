@@ -25,7 +25,11 @@
 		- Interpret the relationship between risk and reward and explain how conflicts of interest can impact risk management.
 		- Describe and differentiate between the key classes of risks, explain how each type of risk can arise, and assess the potential impact of each type of risk on an organization. Explain how risk factors can interact with each other and describe challenges in aggregating risk exposures.
 	- Chapter 2. How Do Firms Manage Financial Risk? 
-		- 
+		- Compare different strategies that a firm can use to manage its risk exposures and explain situations in which a firm would want to use each strategy.
+		- Explain the relationship between risk appetite and a firm’s risk management decisions.
+		- Evaluate some advantages and disadvantages of hedging risk exposures and explain challenges that can arise when implementing a hedging strategy.
+		- Apply appropriate methods to hedge operational and financial risks, including pricing, foreign currency, and interest rate risk.
+		- Assess the impact of risk management tools and instruments, including risk limits and derivatives.
 	- Chapter 3. The Governance of Risk Management 
 		- 
 	- Chapter 4. Credit Risk Transfer Mechanisms
