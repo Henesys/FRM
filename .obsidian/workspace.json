@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1/Foundations of Risk Management/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Part 1/Foundations of Risk Management/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Part 1/Foundations of Risk Management/README.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,8 +221,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0d5488e8eddfe21d",
+  "active": "e5d5a8f47474ee07",
   "lastOpenFiles": [
+    "Part 1/Foundations of Risk Management/README.md",
     "Part 1/Financial Markets and Products/README.md",
     "README.md",
     "Part 2/Risk Management and Investment Management/README.md",
@@ -233,7 +234,6 @@
     "Part 2/Credit Risk Measurement and Management/README.md",
     "Part 1/Valuation and Risk Protocols/README.md",
     "Part 1/Quantitative Analysis/README.md",
-    "Part 1/Foundations of Risk Management/README.md",
     "Exam.png"
   ]
 }

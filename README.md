@@ -13,7 +13,10 @@
 #current_issues_in_financial_markets
 
 # FRM
+
 Repository containing notes, simulations and code in preparation for the FRM.
+
+Notes available on this repository has been created with [Obsidian](https://obsidian.md/), so some documents may look strange when viewed on GitHub directly.
 ## Exam
 
 ![Exam Information](Exam.png)
