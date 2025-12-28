@@ -3,7 +3,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 
 ## Exam
 
-![[Exam.png]]
+![Exam Information](Exam.png)
 
 - Part I
 	- 100 questions
