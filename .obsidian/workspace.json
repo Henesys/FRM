@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "659e6879f7a102c7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e28154fd54b111e6",
@@ -111,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.50260543823242
+    "width": 242.50260543823242
   },
   "right": {
     "id": "478d72f2c9766a68",
@@ -127,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -145,11 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -187,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ]
@@ -214,11 +206,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "659e6879f7a102c7",
+  "active": "e5d5a8f47474ee07",
   "lastOpenFiles": [
+    "Part 1/Foundations of Risk Management/README.md",
     "README.md",
     "Part.md",
-    "Part 1/Foundations of Risk Management/README.md",
     "Part 1/Financial Markets and Products/README.md",
     "Part 2/Risk Management and Investment Management/README.md",
     "Part 2/Operational Risk and Resilience/README.md",
