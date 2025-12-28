@@ -86,7 +86,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Term structure models of interest rates
 	- Volatility: smiles and term structures
 	- Fundamental Review of the Trading Book (FRTB)
-- [[Part 2/Credit Risk Measurement and Management/README|README]]
+- [[Part 2/Credit Risk Measurement and Management/README|Credit Risk Measurement and Management (20%)]]
 	- Credit analysis
 	- Default risk: quantitative methodologies
 	- Expected and unexpected loss
@@ -94,7 +94,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Counterparty risk
 	- Credit derivatives
 	- Structured finance and securitization
-- Operational Risk and Resilience (20%)
+- [[Part 2/Operational Risk and Resilience/README|Operational Risk and Resilience (20%)]]
 	- Governance of operational risk management frameworks
 	- Identification, classification, and reporting of operational risks
 	- Measurement and assessment of operational risks
@@ -107,7 +107,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Risk-adjusted return on capital (RAROC)
 	- Economic capital frameworks and capital planning
 	- Regulation and the Basel Accords
-- Liquidity and Treasury Risk Measurement and Management (15%)
+- [[Part 2/Liquidity and Treasury Risk Measurement and Management/README|Liquidity and Treasury Risk Measurement and Management (15%)]]
 	- Liquidity risk principles and metrics
 	- Liquidity portfolio management
 	- Cash-flow modeling, liquidity stress testing, and reporting
@@ -116,7 +116,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Funds transfer pricing
 	- Cross-currency funding
 	- Balance sheet management
-- Risk Management and Investment Management  (15%)
+- [[Part 2/Risk Management and Investment Management/README|Risk Management and Investment Management  (15%)]]
 	- Factor theory
 	- Portfolio construction
 	- Portfolio risk measures
@@ -126,7 +126,7 @@ Repository containing notes, simulations and code in preparation for the FRM.
 	- Risk monitoring and due diligence
 	- Scenario analysis and stress testing
 	- Asset liquidity
-- Current Issues in Financial Markets (10%)
+- [[Part 2/Current Issues in Financial Markets/README|Current Issues in Financial Markets (10%)]]
 	- Artificial intelligence (AI)
 	- Private credit
 	- Geopolitical risk
