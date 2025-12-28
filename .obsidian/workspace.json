@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Part 1/Financial Markets and Products/README.md",
+                "file": "Part 1/Foundations of Risk Management/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1/Financial Markets and Products/README.md",
+                "file": "Part 1/Foundations of Risk Management/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Part 1/Financial Markets and Products/README.md",
+                "file": "Part 1/Foundations of Risk Management/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Part 1/Financial Markets and Products/README.md",
+                "file": "Part 1/Foundations of Risk Management/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,10 +223,10 @@
   },
   "active": "0403fee97b7fa8c2",
   "lastOpenFiles": [
+    "Part 1/Financial Markets and Products/README.md",
     "README.md",
     "Part 1/Foundations of Risk Management/README.md",
     "Part.md",
-    "Part 1/Financial Markets and Products/README.md",
     "Part 2/Risk Management and Investment Management/README.md",
     "Part 2/Operational Risk and Resilience/README.md",
     "Part 2/Market Risk Measurement and Management/README.md",
