@@ -24,3 +24,23 @@
 		- Differentiate between expected loss and unexpected loss and provide examples of each.
 		- Interpret the relationship between risk and reward and explain how conflicts of interest can impact risk management.
 		- Describe and differentiate between the key classes of risks, explain how each type of risk can arise, and assess the potential impact of each type of risk on an organization. Explain how risk factors can interact with each other and describe challenges in aggregating risk exposures.
+	- Chapter 2. How Do Firms Manage Financial Risk? 
+		- 
+	- Chapter 3. The Governance of Risk Management 
+		- 
+	- Chapter 4. Credit Risk Transfer Mechanisms
+		- 
+	- Chapter 5. Modern Portfolio Theory (MPT) and the Capital Asset Pricing Model (CAPM)
+		- 
+	- Chapter 6. The Arbitrage Pricing Theory and Multifactor Models of Risk and Return
+		- 
+	- Chapter 7. Principles for Effective Data Aggregation and Risk Reporting 
+		- 
+	- Chapter 8. Enterprise Risk Management and Future Trends
+		- 
+	- Chapter 9. Learning from Financial Disasters
+		- 
+	- Chapter 10. Anatomy of the Great Financial Crisis of 2007-2009 
+		- 
+	- Chapter 11. GARP Code of Conduct
+		- 
