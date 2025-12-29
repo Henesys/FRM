@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "ink",
-  "terminal"
+  "terminal",
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-latex-suite"
 ]

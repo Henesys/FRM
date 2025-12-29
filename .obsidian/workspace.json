@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Part 1/Financial Markets and Products/README.md",
+                "file": "Part 1/Valuation and Risk Protocols/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1/Financial Markets and Products/README.md",
+                "file": "Part 1/Valuation and Risk Protocols/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Part 1/Financial Markets and Products/README.md",
+                "file": "Part 1/Valuation and Risk Protocols/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Part 1/Financial Markets and Products/README.md",
+                "file": "Part 1/Valuation and Risk Protocols/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,10 +223,11 @@
   },
   "active": "22c276e6a0b39563",
   "lastOpenFiles": [
-    "Part 1/Quantitative Analysis/README.md",
     "Part 1/Foundations of Risk Management/README.md",
-    "README.md",
+    "Part 1/Valuation and Risk Protocols/README.md",
     "Part 1/Financial Markets and Products/README.md",
+    "README.md",
+    "Part 1/Quantitative Analysis/README.md",
     "Exam.png",
     "Part.md",
     "Part 2/Risk Management and Investment Management/README.md",
@@ -234,7 +235,6 @@
     "Part 2/Market Risk Measurement and Management/README.md",
     "Part 2/Liquidity and Treasury Risk Measurement and Management/README.md",
     "Part 2/Current Issues in Financial Markets/README.md",
-    "Part 2/Credit Risk Measurement and Management/README.md",
-    "Part 1/Valuation and Risk Protocols/README.md"
+    "Part 2/Credit Risk Measurement and Management/README.md"
   ]
 }

@@ -15,3 +15,7 @@
 - External and internal credit ratings
 - Expected and unexpected losses
 - Operational risk
+
+## Readings
+
+- 
