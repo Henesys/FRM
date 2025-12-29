@@ -19,4 +19,157 @@
 ## Readings
 
 - Global Association of Risk Professionals, Valuation and Risk Models (New York, NY: Pearson, 2022).
-	- 
+	- Chapter 1. Measures of Financial Risk
+		- Describe the mean-variance framework and the efficient frontier.
+		- Compare the normal distribution with the typical distribution of returns of risky financial assets such as equities.
+		- Define the VaR measure of risk, describe assumptions about return distributions and holding periods, and explain the limitations of VaR.
+		- Explain and calculate ES and compare and contrast VaR and ES.
+		- Define the properties of a coherent risk measure and explain the meaning of each property.
+		- Explain why VaR is not a coherent risk measure.
+	- Chapter 2. Calculating and Applying VaR
+		- Explain and provide examples of linear and non-linear portfolios.
+		- Describe and explain the historical simulation approach for computing VaR and ES.
+		- Describe the delta-normal approach and calculate VaR for non-linear derivatives using delta-normal approach.
+		- Describe and calculate VaR for linear derivatives.
+		- Describe the limitations of the delta-normal method.
+		- Explain the Monte Carlo simulation method for calculating VaR and ES and identify its strengths and weaknesses.
+		- Describe the implications of correlation breakdown for a VaR or ES analysis.
+		- Describe worst-case scenario analysis and compare it to VaR.
+	- Chapter 3. Measuring and Monitoring Volatility
+		- Explain how asset return distributions tend to deviate from the normal distribution.
+		- Explain reasons for fat tails in a return distribution and describe their implications.
+		- Differentiate between conditional and unconditional distributions and describe regime switching.
+		- Compare and contrast different approaches for estimating conditional volatility.
+		- Apply the exponentially weighted moving average (EWMA) approach to estimate volatility, and describe alternative approaches to weighting historical return data.
+		- Apply the GARCH (1,1) model to estimate volatility.
+		- Explain and apply approaches to estimate long horizon volatility/VaR and describe the process of mean reversion according to a GARCH (1,1) model.
+		- Evaluate implied volatility as a predictor of future volatility and its shortcomings.
+		- Describe an example of updating correlation estimates.
+	- Chapter 4. External and Internal Credit Ratings
+		- Describe external rating scales, the rating process, and the link between ratings and default.
+		- Define conditional and unconditional default probabilities and explain the distinction between the two.
+		- Define hazard rate and calculate the unconditional default probability of a credit asset using hazard rate.
+		- Define recovery rate and calculate the expected loss from a loan.
+		- Explain and compare the through-the-cycle and point-in-time ratings approaches.
+		- Describe alternative methods to credit ratings produced by rating agencies.
+		- Compare external and internal ratings approaches.
+		- Describe, calculate, and interpret a rating transition matrix and explain its uses.
+		- Describe the relationships between changes in credit ratings and changes in stock prices, bond prices, and credit default swap spreads.
+		- Explain historical failures and potential challenges to the use of credit ratings in making investment decisions.
+	- Chapter 5. Country Risk: Determinants, Measures, and Implications
+		- Explain how a country’s economic growth rates, political risk, legal risk, and economic structure relate to its risk exposure.
+		- Evaluate composite measures of risk that incorporate multiple components of country risk.
+		- Compare instances of sovereign default in both foreign currency debt and local currency debt and explain common causes of sovereign defaults.
+		- Describe the consequences of sovereign default.
+		- Describe factors that influence the level of sovereign default risk; explain and assess how rating agencies measure sovereign default risks.
+		- Describe the characteristics of sovereign credit spreads and sovereign credit default swaps and compare the use of sovereign spreads to credit ratings.
+	- Chapter 6. Measuring Credit Risk
+		- Explain the distinctions between economic capital and regulatory capital and describe how economic capital is derived.
+		- Describe the degree of dependence typically observed among the loan defaults in a bank’s loan portfolio, and explain the implications for the portfolio’s default rate.
+		- Define and calculate expected loss (EL).
+		- Define and explain unexpected loss (UL).
+		- Estimate the mean and standard deviation of credit losses assuming a binomial distribution.
+		- Describe the Gaussian copula model and its application.
+		- Describe and apply the Vasicek model to estimate default rate and credit risk capital for a bank.
+		- Describe the CreditMetrics model and explain how it is applied in estimating economic capital.
+		- Describe and apply Euler’s theorem to determine the contribution of a loan to the overall risk of a portfolio.
+		- Explain why it is more difficult to calculate credit risk capital for derivatives than for loans.
+		- Describe challenges to quantifying credit risk.
+	- Chapter 7. Operational Risk
+		- Describe the different categories of operational risk and explain how each type of risk can arise.
+		- Compare the basic indicator approach, the standardized approach, and the advanced measurement approach for calculating operational risk regulatory capital.
+		- Describe the standardized measurement approach and explain the reasons for its introduction by the Basel Committee.
+		- Explain how a loss distribution is derived from an appropriate loss frequency distribution and loss severity distribution using Monte Carlo simulation.
+		- Describe the common data issues that can introduce inaccuracies and biases in the estimation of loss frequency and severity distributions.
+		- Describe how to use scenario analysis in instances when data are scarce.
+		- Describe how to identify causal relationships and how to use Risk and Control Self-Assessment (RCSA), Key Risk Indicators (KRIs), and education to understand and manage operational risks.
+		- Describe the allocation of operational risk capital to business units.
+		- Explain how to use the power law to measure operational risk.
+		- Explain how the moral hazard and adverse selection problems faced by insurance companies relate to insurance against operational risk.
+	- Chapter 8. Stress Testing
+		- Describe the rationale for the use of stress testing as a risk management tool.
+		- Describe the relationship between stress testing and other risk measures, particularly in enterprise-wide stress testing.
+		- Describe stressed VaR and stressed ES, including their advantages and disadvantages, and compare the process of determining stressed VaR and ES to that of traditional VaR and ES.
+		- Explain key considerations and challenges related to developing stress testing scenarios and building stress testing models.
+		- Describe reverse stress testing and describe an example of regulatory stress testing.
+		- Describe the responsibilities of the board of directors, senior management, and the internal audit function in stress testing governance.
+		- Describe the role of policies and procedures, validation, and independent review in stress testing governance.
+		- Describe the Basel stress testing principles for banks regarding the implementation of stress testing.
+	- Chapter 9. Pricing Conventions, Discounting, and Arbitrage
+		- Define discount factor and calculate present and future values using a discount function.
+		- Define the “law of one price,” explain it using an arbitrage argument, and describe how it can be applied to bond pricing.
+		- Identify arbitrage opportunities for fixed-income securities with certain cash flows.
+		- Identify the components of a U.S. Treasury coupon bond and compare the structure to Treasury STRIPS, including the difference between P-STRIPS and C-STRIPS.
+		- Construct a replicating portfolio using multiple fixed-income securities to match the cash flows of a given fixed-income security.
+		- Differentiate between “clean” and “dirty” bond pricing and explain the implications of accrued interest with respect to bond pricing.
+		- Describe the common day-count conventions used to calculate interest on a fixed-income security.
+	- Chapter 10. Interest Rates
+		- Calculate and interpret the impact of different compounding frequencies on a bond’s value.
+		- Define spot rate and calculate discount factors given spot rates.
+		- Interpret the forward rate and calculate forward rates given spot rates.
+		- Define par rate and describe how to determine the par rate of a bond.
+		- Interpret the relationship between spot, forward, and par rates.
+		- Assess the impact of a change in time to maturity on the price of a bond.
+		- Define the “flattening” and “steepening” of rate curves and describe a trade to reflect expectations that a curve will flatten or steepen.
+		- Describe a swap transaction and explain how a swap market defines par rates.
+	- Chapter 11. Bond Yields and Return Calculations
+		- Differentiate between gross and net realized returns and calculate the realized return for a bond over a holding period including reinvestments.
+		- Define and interpret the spread of a bond and explain how a spread is derived from a bond price and a term structure of rates.
+		- Define, interpret, and apply a bond’s yield to maturity (YTM) to bond pricing.
+		- Explain how to calculate a bond’s YTM given its structure and price.
+		- Calculate the price of an annuity and a perpetuity.
+		- Explain the relationship between spot rates and YTM.
+		- Define the coupon effect and explain the relationship between coupon rate, YTM, and bond prices.
+		- Explain the decomposition of the profit and loss (P&L) for a bond position or portfolio into separate factors including carry roll-down, rate change, and spread change effects.
+		- Describe the common assumptions made about interest rates when calculating carry roll-down, and calculate carry roll-down under these assumptions.
+	- Chapter 12. Applying Duration, Convexity, and DV01
+		- Describe a one-factor interest rate model and identify common examples of interest rate factors.
+		- Define and calculate the DV01 of a fixed-income security given a change in rates and the resulting change in price.
+		- Calculate the face amount of bonds required to hedge an interest rate-sensitive position given the DV01 of each.
+		- Define, calculate, and interpret the effective duration of a fixed-income security given a change in rates and the resulting change in price.
+		- Compare and contrast DV01 and effective duration as measures of price sensitivity.
+		- Define, calculate, and interpret the convexity of a fixed-income security given a change in rates and the resulting change in price.
+		- Calculate the DV01, duration, and convexity of a portfolio of fixed-income securities.
+		- Explain the hedging of a position based on effective duration and convexity.
+		- Construct a barbell portfolio to match the cost and duration of a given bullet investment and explain the advantages and disadvantages of bullet and barbell portfolios.
+	- Chapter 13. Modeling Non-Parallel Term Structure Shifts and Hedging
+		- Describe principal components analysis and identify the factors that are the most important drivers of term structure movements.
+		- Describe key rate shift analysis and define key rate 01 (KR01).
+		- Calculate the KR01s of a portfolio given a set of key rates.
+		- Calculate the positions in hedging instruments necessary to hedge the key rate risks of a portfolio.
+		- Apply key rate analysis and principal components analysis to estimating portfolio volatility.
+		- Describe an interest rate bucketing approach, define forward bucket 01, and compare forward bucket 01s to KR01s.
+		- Calculate the corresponding duration measure given a KR01 or forward bucket 01.
+	- Chapter 14. Binomial Trees
+		- Calculate the value of an American and a European call or put option using a one-step and two-step binomial model.
+		- Describe how volatility is captured in the binomial model.
+		- Describe how the value calculated using a binomial model converges as time periods are added.
+		- Define and calculate delta of a stock option.
+		- Explain how the binomial model can be altered to price options on stocks with dividends, stock indices, currencies, and futures.
+	- Chapter 15. The Black-Scholes-Merton Model
+		- Explain the lognormal property of stock prices, the distribution of rates of return, and the calculation of expected return.
+		- Calculate the realized return and historical volatility of a stock.
+		- Describe the assumptions underlying the Black-Scholes-Merton option pricing model.
+		- Calculate the value of a European option on a non-dividend-paying stock using the Black-Scholes-Merton model.
+		- Define implied volatilities and describe how to calculate implied volatilities from market prices of options using the Black-Scholes-Merton model.
+		- Explain how dividends affect the decision to exercise early for American call and put options.
+		- Calculate the value of a European option on a dividend-paying stock, futures, or foreign currency using the Black-Scholes-Merton model.
+		- Describe warrants, calculate the value of a warrant, and calculate the dilution cost of the warrant to existing shareholders.
+	- Chapter 16. Option Sensitivity Measures: The “Greeks”
+		- Describe and assess the risks associated with naked and covered option positions.
+		- Describe the use of a stop-loss hedging strategy, including its advantages and disadvantages, and explain how this strategy can generate naked and covered option positions.
+		- Calculate the delta of an option.
+		- Explain delta hedging for an option position, including its dynamic aspects.
+		- Define and describe vega, gamma, theta, and rho for option positions and calculate the gamma and vega of an option.
+		- Explain how to implement and maintain a delta-neutral and gamma-neutral position.
+		- Describe the relationship between delta, theta, gamma, and vega.
+		- Calculate the delta, gamma, and vega of a portfolio.
+		- Describe how to implement portfolio insurance and how this strategy compares with delta hedging.
+
+
+
+
+
+
+
+
