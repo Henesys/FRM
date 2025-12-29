@@ -57,7 +57,7 @@
       {
         "id": "d9ec1a04aba3efa0",
         "type": "tabs",
-        "dimension": 58.177570093457945,
+        "dimension": 62.03966005665722,
         "children": [
           {
             "id": "0d5488e8eddfe21d",
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#market_risk_measurement_and_management",
+                "query": "tag:#quantitative_analysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
       {
         "id": "b565fa449f4d375a",
         "type": "tabs",
-        "dimension": 41.822429906542055,
+        "dimension": 37.960339943342774,
         "children": [
           {
             "id": "6e246b1db003e411",
@@ -251,7 +251,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a2ad97afceb236fd",
+  "active": "0d5488e8eddfe21d",
   "lastOpenFiles": [
     "Part 2/Market Risk Measurement and Management/README.md",
     "README.md",
