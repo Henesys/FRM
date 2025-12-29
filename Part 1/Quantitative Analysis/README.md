@@ -60,5 +60,98 @@
 		- Estimate the covariance and correlation between two random variables.
 		- Explain how coskewness and cokurtosis are related to skewness and kurtosis.
 	- Chapter 6: Hypothesis Testing
-		- 
+		- Construct an appropriate null hypothesis and alternative hypothesis and differentiate between the two.
+		- Differentiate between a one-sided and a two-sided test and identify when to use each test.
+		- Explain the difference between Type I and Type II errors and how these relate to the size and power of a test.
+		- Explain how a hypothesis test and a confidence interval are related.
+		- Explain what the p-value of a hypothesis test measures, and calculate it from a test statistic.
+		- Construct and apply confidence intervals for one-sided and two-sided hypothesis tests and interpret the results.
+		- Identify steps to test a hypothesis about the difference between two population means.
+		- Explain the problem of multiple testing and how it can lead to biased results.
+	- Chapter 7: Linear Regression
+		- Describe models which can be estimated using linear regression and differentiate them from those which cannot.
+		- Interpret results of an ordinary least squares (OLS) regression with a single explanatory variable.
+		- Describe key assumptions of OLS parameter estimation.
+		- Describe properties of OLS estimators and their sampling distributions.
+		- Construct, apply, and interpret hypothesis tests and confidence intervals for a single regression coefficient.
+		- Explain steps needed to perform a hypothesis test in linear regression.
+		- Describe relationship among a t-statistic, its p-value, and a confidence interval.
+		- Estimate the correlation coefficient from the R² measure obtained in single-variable regressions.
+	- Chapter 8: Regression with Multiple Explanatory Variables 
+		- Differentiate between the assumptions of single and multiple regression.
+		- Interpret regression coefficients in multiple regression.
+		- Interpret goodness-of-fit measures for single and multiple regressions, including R² and adjusted R².
+		- Construct, apply, and interpret joint hypothesis tests and confidence intervals for multiple coefficients.
+		- Calculate regression R² using the decomposed variation of the dependent variable: explained sum of squares, total sum of squares, and residual sum of squares.
+	- Chapter 9: Regression Diagnostics
+		- Explain how to test whether a regression is affected by heteroskedasticity.
+		- Describe approaches to using heteroskedastic data.
+		- Explain the concept of multicollinearity and differentiate from perfect collinearity.
+		- Describe consequences of excluding a relevant explanatory variable and including an irrelevant regressor.
+		- Explain two model selection procedures and their relation to bias-variance trade-off.
+		- Describe methods of visualizing residuals and their relative strengths.
+		- Describe and apply methods for identifying outliers and their impact.
+		- Determine conditions under which OLS is the best linear unbiased estimator.
+	- Chapter 10: Stationary Time Series
+		- Describe requirements for a series to be covariance stationary.
+		- Define the autocovariance and autocorrelation functions.
+		- Define white noise, independent white noise, and normal (Gaussian) white noise.
+		- Define and describe properties of autoregressive (AR) processes, and calculate the time series using specified parameters.
+		- Define and describe properties of moving average (MA) processes, and calculate the time series using specified parameters.
+		- Explain how a lag operator works, calculate the lag polynomial, and apply characteristic equations to assess stationarity.
+		- Explain mean reversion and calculate a mean-reverting level.
+		- Define and describe autoregressive moving average (ARMA) processes.
+		- Describe application of AR, MA, and ARMA processes, and apply model selection criteria.
+		- Describe sample autocorrelation and partial autocorrelation.
+		- Describe, calculate, and interpret Box-Pierce Q and Ljung-Box Q statistics.
+		- Explain how forecasts are generated from ARMA models.
+		- Describe role of mean reversion in long-horizon forecasts.
+		- Explain how seasonality is modeled in covariance-stationary ARMA.
+	- Chapter 11: Non-Stationary Time Series
+		- Describe linear and nonlinear time trends.
+		- Explain how regression analysis can be used to model seasonality.
+		- Describe a random walk and a unit root.
+		- Explain challenges of modeling time series containing unit roots.
+		- Describe how to test if a time series contains a unit root.
+		- Explain how to construct an h-step-ahead point forecast for a time series with seasonality.
+		- Calculate estimated trend value and construct an interval forecast for a time series.
+	- Chapter 12: Measuring Returns, Volatility, and Correlation
+		- Calculate, differentiate, and convert between simple and continuously compounded returns.
+		- Define and differentiate between volatility, variance rate, and implied volatility.
+		- Describe how first two moments may be insufficient to describe non-normal distributions.
+		- Calculate the Jarque-Bera test statistic and explain its use for testing normality of returns.
+		- Describe the power law and its use for non-normal distributions.
+		- Define correlation and covariance and differentiate correlation from dependence.
+		- Describe properties of correlations between normally distributed variables using a one-factor model.
+		- Compare and contrast different measures of correlation used to assess dependence.
+	- Chapter 13: Simulation and Bootstrapping
+		- Describe the basic steps to conduct a Monte Carlo simulation and illustrate how it approximates moments or other quantities.
+		- Describe ways to reduce Monte Carlo sampling error.
+		- Explain and illustrate use of antithetic and control variates in reducing sampling error.
+		- Describe the bootstrapping method and its advantages over Monte Carlo simulation.
+		- Describe pseudo-random number generation.
+		- Describe situations where bootstrapping is ineffective.
+		- Describe disadvantages of the simulation approach to financial problem solving.
+	- Chapter 14: Machine-Learning Methods
+		- Discuss philosophical and practical differences between machine-learning techniques and classical econometrics.
+		- Compare and apply methods for rescaling variables in data preparation.
+		- Explain differences among training, validation, and test data subsamples, and how each is used.
+		- Examine consequences of underfitting and overfitting, and describe potential remedies.
+		- Explain how principal components analysis reduces dimensionality.
+		- Describe how the K-means algorithm separates a sample into clusters.
+		- Explain mechanics of natural language processing and its applications.
+		- Differentiate among unsupervised, supervised, and reinforcement learning models.
+		- Explain how reinforcement learning operates, and calculate Q-values used in decision-making.
+	- Chapter 15: Machine Learning and Prediction
+		- Explain role of linear regression and logistic regression in prediction.
+		- Evaluate predictive performance of logistic regression models.
+		- Describe and apply methods to encode categorical variables.
+		- Discuss why regularization is useful, and compare ridge regression and LASSO.
+		- Illustrate how a decision tree is constructed and interpreted.
+		- Describe how ensembles of learners are built.
+		- Explain intuition and processes behind K-nearest neighbors and support vector machine methods.
+		- Explain how neural networks are constructed and how weights are determined.
+		- Compare logistic regression and neural network classification using a confusion matrix.
+
+
 
