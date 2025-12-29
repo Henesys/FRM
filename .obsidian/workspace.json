@@ -6,7 +6,7 @@
       {
         "id": "1b965f0c20a47815",
         "type": "tabs",
-        "dimension": 59.83827493261455,
+        "dimension": 58.260019550342136,
         "children": [
           {
             "id": "a2ad97afceb236fd",
@@ -27,7 +27,7 @@
       {
         "id": "e28154fd54b111e6",
         "type": "tabs",
-        "dimension": 40.16172506738545,
+        "dimension": 41.73998044965787,
         "children": [
           {
             "id": "e5d5a8f47474ee07",
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#part1",
+                "query": "tag:#market_risk_measurement_and_management",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,10 +246,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a2ad97afceb236fd",
+  "active": "0d5488e8eddfe21d",
   "lastOpenFiles": [
     "Part 2/Market Risk Measurement and Management/README.md",
     "README.md",
