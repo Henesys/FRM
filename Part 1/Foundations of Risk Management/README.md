@@ -57,12 +57,35 @@
 		- Explain how to construct a portfolio to hedge exposure to multiple factors.
 		- Describe and apply the Fama-French three-factor model in estimating asset returns.
 	- Chapter 7. Principles for Effective Data Aggregation and Risk Reporting 
-		- 
+		- Explain the potential benefits of having effective risk data aggregation and reporting.
+		- Explain challenges to the implementation of a strong risk data aggregation and reporting process and the potential impacts of using poor-quality data.
+		- Describe key governance principles related to risk data aggregation and risk reporting.
+		- Describe characteristics of effective data architecture, IT infrastructure, and risk-reporting practices.
 	- Chapter 8. Enterprise Risk Management and Future Trends
-		- 
+		- Describe Enterprise Risk Management (ERM) and compare an ERM program with a traditional silo-based risk management program.
+		- Describe the motivations for a firm to adopt an ERM initiative.
+		- Explain best practices for the governance and implementation of an ERM program.
+		- Describe risk culture, explain the characteristics of a strong corporate risk culture, and describe challenges to the establishment of a strong risk culture at a firm.
+		- Explain the role of scenario analysis in the implementation of an ERM program and describe its advantages and disadvantages.
+		- Explain the use of scenario analysis in stress testing programs and capital planning.
 	- Chapter 9. Learning from Financial Disasters
-		- 
+		- Analyze the following factors that contributed to case studies of financial disasters and examine the key lessons learned:
+			- Interest rate risk, including the 1980s savings and loan crisis in the U.S.
+			- Funding liquidity risk, including Lehman Brothers, Continental Illinois, and Northern Rock.
+			- Constructing and implementing a hedging strategy, including the Metallgesellschaft case.
+			- Model risk, including the Niederhoffer case, Long Term Capital Management, and the London Whale case.
+			- Rogue trading and misleading reporting, including the Barings case.
+			- Financial engineering, including Bankers Trust, the Orange County case, and Sachsen Landesbank.
+			- Reputation risk, including the Volkswagen case.
+			- Corporate governance, including the Enron case.
+			- Cyber risk, including the SWIFT case.
 	- Chapter 10. Anatomy of the Great Financial Crisis of 2007-2009 
-		- 
+		- Describe the historical background and summarize the major events of the 2007–2009 financial crisis.
+		- Describe the build-up to the financial crisis and the factors that played an important role.
+		- Explain the role of subprime mortgages and collateralized debt obligations (CDOs) in the crisis.
+		- Compare the roles of different types of institutions in the financial crisis, including banks, financial intermediaries, mortgage brokers and lenders, and rating agencies.
+		- Describe trends in the short-term wholesale funding markets that contributed to the financial crisis, including their impact on systemic risk.
+		- Describe responses made by central banks in response to the crisis.
 	- Chapter 11. GARP Code of Conduct
-		- 
+		- Describe the responsibility of each GARP Member with respect to professional integrity, ethical conduct, conflicts of interest, confidentiality of information, and adherence to generally accepted practices in risk management.
+		- Describe the potential consequences of violating the GARP Code of Conduct.
