@@ -18,4 +18,5 @@
 
 ## Readings
 
-- 
+- Global Association of Risk Professionals, Valuation and Risk Models (New York, NY: Pearson, 2022).
+	- 

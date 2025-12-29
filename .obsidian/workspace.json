@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "22c276e6a0b39563",
+            "id": "a2ad97afceb236fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -221,12 +221,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "22c276e6a0b39563",
+  "active": "a2ad97afceb236fd",
   "lastOpenFiles": [
-    "Part 1/Foundations of Risk Management/README.md",
-    "Part 1/Valuation and Risk Protocols/README.md",
     "Part 1/Financial Markets and Products/README.md",
+    "Part 1/Valuation and Risk Protocols/README.md",
     "README.md",
+    "Part 1/Foundations of Risk Management/README.md",
     "Part 1/Quantitative Analysis/README.md",
     "Exam.png",
     "Part.md",

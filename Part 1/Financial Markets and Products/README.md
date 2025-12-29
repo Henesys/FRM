@@ -129,6 +129,85 @@
 		- Explain how dividends and stock splits can impact the terms of a stock option.
 		- Describe the application of commissions, margin requirements, and exercise procedures to exchange-traded options, and explain the trading characteristics of these options.
 		- Define and describe warrants, convertible bonds, and employee stock options.
+	- Chapter 13. Properties of Options
+		- Identify the six factors that affect an option’s price.
+		- Identify and calculate upper and lower bounds for option prices on non-dividend and dividend-paying stocks.
+		- Explain put-call parity and apply it to the valuation of European and American stock options, with and without dividends, and express it in terms of forward prices.
+		- Explain and assess potential rationales for using the early exercise features of American call and put options.
+	- Chapter 14. Trading Strategies
+		- Explain the motivation to initiate a covered call or a protective put strategy.
+		- Describe principal protected notes and explain necessary conditions to create them.
+		- Describe the use and calculate the payoffs of various spread strategies.
+		- Describe the use and explain the payoff functions of combination strategies.
+	- Chapter 15. Exotic Options
+		- Define and contrast exotic derivatives and plain vanilla derivatives.
+		- Describe some of the reasons that drive the development of exotic derivative products.
+		- Explain how any derivative can be converted into a zero-cost product.
+		- Describe how standard American options can be transformed into nonstandard American options.
+		- Identify and describe the characteristics and payoff structures of exotic options including gap, forward start, compound, chooser, barrier, binary, lookback, Asian, exchange, and basket options.
+		- Describe and contrast volatility swaps and variance swaps.
+		- Explain the basic premise of static option replication and how it can be applied to hedging exotic options.
+	- Chapter 16. Properties of Interest Rates
+		- Describe Treasury rates, Secured Overnight Financing Rate, and repo rates, and explain what is meant by the “risk-free” rate.
+		- Calculate the value of an investment using different compounding frequencies.
+		- Calculate value of a bond based on coupon and yield.
+		- Calculate the theoretical price of a bond using spot rates.
+		- Calculate the Macaulay duration, modified duration, and dollar duration of a bond.
+		- Evaluate the limitations of duration and explain how convexity addresses some of them.
+		- Calculate the change in a bond’s price given its duration, its convexity, and a change in interest rates.
+		- Calculate forward interest rates using a set of spot rates.
+		- Calculate the value of the cash flows using a forward rate agreement.
+		- Calculate zero-coupon rates using the bootstrap method.
+		- Compare and contrast the major theories of the term structure of interest rates.
+	- Chapter 17. Corporate Bonds
+		- Describe features of bond trading and explain the behavior of bond yield.
+		- Describe a bond indenture and explain the role of the corporate trustee in a bond indenture.
+		- Define high-yield bonds and describe types of high-yield bond issuers and some of the payment features unique to high-yield bonds.
+		- Differentiate between credit default risk and credit spread risk.
+		- Describe event risk and explain what may cause it to manifest in corporate bonds.
+		- Describe different characteristics of bonds such as issuer, maturity, interest rate, and collateral.
+		- Describe the mechanisms by which corporate bonds can be retired before maturity.
+		- Define recovery rate and default rate, and differentiate between an issue default rate and a dollar default rate.
+		- Evaluate the expected return from a bond investment and identify the components of the bond’s expected return.
+	- Chapter 18. Mortgages and Mortgage-Backed Securities
+		- Describe the various types of residential mortgage products.
+		- Calculate a fixed-rate mortgage payment and its principal and interest components.
+		- Summarize the securitization process of mortgage-backed securities, particularly the formation of mortgage pools.
+		- Calculate the weighted average coupon, weighted average maturity, single monthly mortality rate, and conditional prepayment rate for a mortgage pool.
+		- Describe the process of trading pass-through agency mortgage-backed securities.
+		- Explain the mechanics of different types of agency MBS products including collateralized mortgage obligations, interest-only securities, and principal-only securities.
+		- Describe a dollar roll transaction and how to value a dollar roll.
+		- Describe the mortgage prepayment option and factors that affect it; explain prepayment modeling and its four components: refinancing, turnover, defaults, and curtailments.
+		- Describe the steps in valuing an MBS using Monte Carlo simulation.
+		- Define Option Adjusted Spread and explain its uses and challenges.
+	- Chapter 19. Interest Rate Futures
+		- Identify the most commonly used day count conventions, describe the markets that each one is typically used in, and apply each to an interest calculation.
+		- Calculate the conversion of a discount rate to a price for a U.S. Treasury bill.
+		- Differentiate between the clean and dirty price for a U.S. Treasury bond; calculate the accrued interest and dirty price on a U.S. Treasury bond.
+		- Explain and calculate a U.S. Treasury bond futures contract conversion factor.
+		- Calculate the cost of delivering a bond into a Treasury bond futures contract.
+		- Describe the impact of the level and shape of the yield curve on the cheapest-to-deliver Treasury bond decision.
+		- Calculate the theoretical futures price for a Treasury bond futures contract.
+		- Calculate the duration-based hedge ratio and create a duration-based hedging strategy using interest rate futures.
+		- Explain the limitations of using a duration-based hedging strategy.
+	- Chapter 20. Swaps
+		- Explain the mechanics of a plain vanilla interest rate swap and calculate its cash flows.
+		- Explain how a plain vanilla interest rate swap can be used to transform an asset or a liability and calculate the resulting cash flows.
+		- Explain the role of financial intermediaries in the swaps market.
+		- Describe the role of confirmation in a swap transaction.
+		- Describe the comparative advantage argument for the existence of interest rate swaps and evaluate some of the criticisms of this argument.
+		- Explain how the discount rates in a plain vanilla interest rate swap are calculated.
+		- Calculate the value of a plain vanilla interest rate swap based on two simultaneous bond positions.
+		- Calculate the value of a plain vanilla interest rate swap from a sequence of forward rate agreements.
+		- Explain how a currency swap can be used to transform an asset or a liability and calculate the resulting cash flows.
+		- Calculate the value of a currency swap based on two simultaneous bond positions.
+		- Calculate the value of a currency swap based on a sequence of forward exchange rates.
+		- Identify and describe other types of swaps, including commodity, volatility, credit default, and exotic swaps.
+		- Describe the credit risk exposure in a swap position.
+
+
+
+
 
 
 
