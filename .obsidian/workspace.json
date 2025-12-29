@@ -139,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Part 2/Market Risk Measurement and Management/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -157,11 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Part 2/Market Risk Measurement and Management/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -199,12 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Part 2/Market Risk Measurement and Management/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ],
@@ -246,7 +249,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6e4dfa96e16b5614",
+  "active": "a2ad97afceb236fd",
   "lastOpenFiles": [
     "Part 2/Market Risk Measurement and Management/README.md",
     "README.md",
