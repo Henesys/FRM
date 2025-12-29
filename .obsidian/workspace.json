@@ -57,6 +57,7 @@
       {
         "id": "d9ec1a04aba3efa0",
         "type": "tabs",
+        "dimension": 58.177570093457945,
         "children": [
           {
             "id": "0d5488e8eddfe21d",
@@ -103,6 +104,7 @@
       {
         "id": "b565fa449f4d375a",
         "type": "tabs",
+        "dimension": 41.822429906542055,
         "children": [
           {
             "id": "6e246b1db003e411",
@@ -129,6 +131,7 @@
       {
         "id": "d7ebad5673d7a104",
         "type": "tabs",
+        "dimension": 61.46993318485523,
         "children": [
           {
             "id": "e1511fe788b96479",
@@ -203,19 +206,28 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6b4f2a6a02882aff",
+        "type": "tabs",
+        "dimension": 38.530066815144764,
+        "children": [
           {
             "id": "c3bef50105f3aba9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "calendar",
               "state": {},
+              "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",

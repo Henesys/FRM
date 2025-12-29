@@ -1,0 +1,28 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "credit_risk_measurement_and_management": 1,
+    "current_issues_in_financial_markets": 2,
+    "financial_markets_and_products": 3,
+    "foundations_of_risk_management": 4,
+    "liquidity_and_treasury_risk_measurement_and_management": 5,
+    "market_risk_measurement_and_management": 6,
+    "operational_risk_and_resilience": 7,
+    "part1": 8,
+    "part2": 9,
+    "quantitative_analysis": 10,
+    "risk_management_and_investment_management": 11,
+    "valuation_and_risk_protocols": 12
+  },
+  "tagColors": {},
+  "_version": 4
+}

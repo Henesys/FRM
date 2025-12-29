@@ -1,0 +1,26 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "DRcSaCIGLu3sCIwyxLIUs",
+      "name": "Red",
+      "value": "#e92525"
+    },
+    {
+      "id": "J_Yjg96ELScXh7wCtcwbL",
+      "name": "Blue",
+      "value": "#26c4d9"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Part 1",
+      "color": "DRcSaCIGLu3sCIwyxLIUs"
+    },
+    {
+      "path": "Part 2",
+      "color": "J_Yjg96ELScXh7wCtcwbL"
+    }
+  ]
+}
