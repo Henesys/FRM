@@ -9,22 +9,6 @@
         "dimension": 59.83827493261455,
         "children": [
           {
-            "id": "e5d5a8f47474ee07",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "a2ad97afceb236fd",
             "type": "leaf",
             "state": {
@@ -38,8 +22,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e28154fd54b111e6",
@@ -57,8 +40,25 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "e5d5a8f47474ee07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 2/Market Risk Measurement and Management/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Part 2/Market Risk Measurement and Management/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Part 2/Market Risk Measurement and Management/README.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,18 +221,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a2ad97afceb236fd",
+  "active": "e5d5a8f47474ee07",
   "lastOpenFiles": [
+    "Part 2/Market Risk Measurement and Management/README.md",
+    "README.md",
     "Part 1/Valuation and Risk Protocols/README.md",
     "Part 1/Financial Markets and Products/README.md",
-    "README.md",
     "Part 1/Foundations of Risk Management/README.md",
     "Part 1/Quantitative Analysis/README.md",
     "Exam.png",
     "Part.md",
     "Part 2/Risk Management and Investment Management/README.md",
     "Part 2/Operational Risk and Resilience/README.md",
-    "Part 2/Market Risk Measurement and Management/README.md",
     "Part 2/Liquidity and Treasury Risk Measurement and Management/README.md",
     "Part 2/Current Issues in Financial Markets/README.md",
     "Part 2/Credit Risk Measurement and Management/README.md"

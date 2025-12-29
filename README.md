@@ -1,22 +1,8 @@
-#part1
-#foundations_of_risk_management 
-#quantitative_analysis 
-#financial_markets_and_products 
-#valuation_and_risk_protocols 
-
-#part2 
-#market_risk_measurement_and_management
-#credit_risk_measurement_and_management
-#operational_risk_and_resilience
-#liquidity_and_treasury_risk_measurement_and_management
-#risk_management_and_investment_management
-#current_issues_in_financial_markets
-
 # FRM
 
 Repository containing notes, simulations and code in preparation for the FRM.
 
-Notes available on this repository has been created with [Obsidian](https://obsidian.md/), so some documents may look strange when viewed on GitHub directly.
+Notes available on this repository have been created with [Obsidian](https://obsidian.md/), so some documents may look strange when viewed on GitHub directly.
 ## Exam
 
 ![Exam Information](Exam.png)
@@ -137,3 +123,16 @@ Notes available on this repository has been created with [Obsidian](https://obsi
 	- Cryptocurrency and digital assets
 	- Digital resilience
 
+#part1
+#foundations_of_risk_management 
+#quantitative_analysis 
+#financial_markets_and_products 
+#valuation_and_risk_protocols 
+
+#part2 
+#market_risk_measurement_and_management
+#credit_risk_measurement_and_management
+#operational_risk_and_resilience
+#liquidity_and_treasury_risk_measurement_and_management
+#risk_management_and_investment_management
+#current_issues_in_financial_markets
