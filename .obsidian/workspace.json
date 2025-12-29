@@ -30,18 +30,6 @@
         "dimension": 40.16172506738545,
         "children": [
           {
-            "id": "6e246b1db003e411",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "e5d5a8f47474ee07",
             "type": "leaf",
             "pinned": true,
@@ -57,8 +45,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,6 +99,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "b565fa449f4d375a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e246b1db003e411",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -150,12 +154,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -193,20 +196,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c3bef50105f3aba9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +234,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e5d5a8f47474ee07",
+  "active": "6e4dfa96e16b5614",
   "lastOpenFiles": [
     "Part 2/Market Risk Measurement and Management/README.md",
     "README.md",
