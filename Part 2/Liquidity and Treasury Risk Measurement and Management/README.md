@@ -11,3 +11,7 @@
 - Funds transfer pricing
 - Cross-currency funding
 - Balance sheet management
+
+## Readings
+
+- 

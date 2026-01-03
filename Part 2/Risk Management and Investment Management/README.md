@@ -12,3 +12,7 @@
 - Risk monitoring and due diligence
 - Scenario analysis and stress testing
 - Asset liquidity
+
+## Readings
+
+- 

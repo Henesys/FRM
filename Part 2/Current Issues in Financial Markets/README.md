@@ -9,3 +9,7 @@
 - Risks of rising government debt
 - Cryptocurrency and digital assets
 - Digital resilience
+
+## Readings
+
+- 
