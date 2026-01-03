@@ -115,5 +115,86 @@
 		- Estimate the probability of a joint default of any pair of credits and the default correlation between any pair of credits using the single factor model.
 		- Describe how Credit VaR can be calculated using a simulation of joint defaults.
 		- Assess the effect of granularity on Credit VaR.
+- John C. Hull, Options, Futures, and Other Derivatives, 11th Edition (Pearson, 2022).
+	- Chapter 24. Credit Risk 
+		- Assess the credit risks of derivatives.
+		- Define credit valuation adjustment (CVA) and debt valuation adjustment (DVA).
+		- Calculate the probability of default using credit spreads.
+		- Describe, compare, and contrast various credit risk mitigants and their role in credit analysis.
+		- Describe the significance of estimating default correlation for credit portfolios and distinguish between reduced form and structural default correlation models.
+		- Describe the Gaussian copula model for time to default and calculate the probability of default using the one-factor Gaussian copula model.
+		- Describe how to estimate credit VaR using the Gaussian copula and the CreditMetrics approach.
+	- Chapter 25. Credit Derivatives
+		- Describe a credit derivative, credit default swap (CDS), total return swap, and collateralized debt obligation (CDO).
+		- Explain how to account for credit risk exposure in valuing a CDS.
+		- Identify the default probabilities used to value a CDS.
+		- Evaluate the use of credit indices and fixed coupons in pricing CDS transactions.
+		- Define CDS forwards and CDS options.
+		- Describe the process of valuing a synthetic CDO using the spread payments approach and the Gaussian copula model of time to default approach.
+		- Define the two measures of implied correlation: compound (tranche) correlation and base correlation.
+		- Discuss alternative approaches used to estimate default correlation.
+- Jon Gregory, The xVA Challenge: Counterparty Credit Risk, Funding, Collateral, and Capital (West Sussex, UK: John Wiley & Sons, 2020).
+	- Chapter 2. Derivatives 
+		- Define derivatives and explain how derivative transactions create counterparty credit risk.
+		- Compare and contrast exchange-traded derivatives and over-the-counter (OTC) derivatives, and discuss the features of their markets.
+		- Describe the process of clearing a derivative transaction.
+		- Identify the participants and describe the use of collateralization in the derivatives market.
+		- Define the International Swaps and Derivatives Association (ISDA) Master Agreement, the risk-mitigating features it provides, and the default events it covers.
+		- Describe the features and use of credit derivatives and discuss potential risks they may create.
+		- Describe central clearing of OTC derivatives and discuss the roles, mandate, advantages, and disadvantages of the central counterparty (CCP).
+		- Explain the margin requirements for both centrally-cleared and non-centrally-cleared derivatives.
+		- Define special purpose vehicles (SPVs), derivatives product companies (DPCs), monolines, and credit derivatives product companies (CDPCs) and describe the limitations of using them as risk mitigating methods.
+		- Describe the approaches used and the challenges faced in modeling derivatives risk.
+	- Chapter 3. Counterparty Risk and Beyond 
+		- Describe counterparty risk and differentiate it from lending risk.
+		- Describe transactions that carry counterparty risk and explain how counterparty risk can arise in each transaction.
+		- Identify and describe institutions that take on significant counterparty risk.
+		- Describe credit exposure, credit migration, recovery, mark-to-market, replacement cost, default probability, loss given default, and the recovery rate.
+		- Describe credit value adjustment (CVA) and compare the use of CVA and credit limits in evaluating and mitigating counterparty risk.
+		- Identify and describe the different ways institutions can quantify, manage, and mitigate counterparty risk.
+		- Identify and explain the costs of an OTC derivative.
+		- Explain the components of the X-Value Adjustment (xVA) term.
+	- Chapter 6. Netting, Close-out and Related Aspects
+		- Explain the purpose of an International Swaps and Derivatives Association (ISDA) master agreement.
+		- Summarize netting and close-out procedures (including multilateral netting), explain their advantages and disadvantages, and describe how they fit into the framework of the ISDA master agreement.
+		- Describe the effectiveness of netting in reducing credit exposure under various scenarios.
+		- Describe the mechanics of termination provisions and trade compressions and explain their advantages and disadvantages.
+		- Provide examples of trade compression of derivative positions, calculate net notional exposure amount, and identify the party holding the net contract position in a trade compression.
+		- Identify and describe termination events and discuss their potential effects on parties to a transaction.
+	- Chapter 7. Margin (Collateral) and Settlement
+		- Describe the rationale for collateral management.
+		- Describe the terms of a collateral agreement and features of a credit support annex (CSA) within the ISDA Master Agreement including threshold, initial margin, minimum transfer amount and rounding, haircuts, credit quality, and credit support amount.
+		- Calculate the credit support amount (margin) under various scenarios.
+		- Describe the role of a valuation agent.
+		- Describe the mechanics of collateral and the types of collateral that are typically used.
+		- Explain the process for the reconciliation of collateral disputes.
+		- Explain the features of a collateralization agreement.
+		- Differentiate between a two-way and one-way CSA agreement and describe how collateral parameters can be linked to credit quality.
+		- Explain aspects of collateral including funding, rehypothecation, and segregation.
+		- Explain how market risk, operational risk, and liquidity risk (including funding liquidity risk) can arise through collateralization.
+		- Describe the various regulatory capital requirements.
+	- Chapter 8. Central Clearing
+		- Define a central counterparty (CCP) and describe the mechanics of central clearing.
+		- Explain the concept of novation under central clearing.
+		- Define netting, multilateral offset, and compression and provide examples of each.
+		- Describe the application and estimation of margin and default funds under central clearing.
+		- Discuss the risks faced by a CCP and the ways it manages its exposures.
+		- Provide examples of a loss waterfall.
+		- Explain the different methods of absorbing losses and managing the default of one or more members of a CCP.
+		- Compare bilateral and central clearing.
+		- Compare initial margin and default fund requirements for clearing members in relation to loss coverage, cost of clearing, and moral hazard.
+		- Describe the advantages and disadvantages of central clearing.
+	- Chapter 11. Future Value and Exposure
+		- Describe and calculate the following metrics for credit exposure: expected mark-to-market, expected exposure, potential future exposure, expected positive exposure and negative exposure, effective expected positive exposure, and maximum exposure.
+		- Compare the characterization of credit exposure to VaR methods and describe additional considerations used in the determination of credit exposure.
+		- Identify factors that affect the calculation of the credit exposure profile and summarize the impact of collateral on exposure.
+		- Identify typical credit exposure profiles for various derivative contracts and combination profiles.
+		- Explain how payment frequencies and exercise dates affect the exposure profile of various securities.
+		- Explain the general impact of aggregation on exposure, and the impact of aggregation on exposure when there is correlation between transaction values.
+		- Describe the differences between funding exposure and credit exposure.
+		- Explain the impact of collateralization on exposure and assess the risk associated with the remargining period, threshold, and minimum transfer amount.
+		- Assess the impact of collateral on counterparty risk and funding, with and without segregation or rehypothecation.
+
+
 
 
