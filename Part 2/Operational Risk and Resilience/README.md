@@ -68,5 +68,48 @@
 		- Explain and assess current practices for the sharing of cybersecurity information between different types of institutions.
 		- Describe practices for the governance of risks of interconnected third-party service providers.
 - Global Association of Risk Professionals, Operational Risk and Resilience (New York, NY: Pearson, 2022).
+	- Chapter 9. Case Study: Cyberthreats and Information Security Risks
+		- Provide examples of cyber threats and information security risks, and describe frameworks and best practices for managing cyber risks.
+		- Describe lessons learned from the Equifax case study.
+- “Sound Management of Risks related to Money Laundering and Financing of Terrorism”, Basel Committee on Banking Supervision Publication (Revised July 2020; read through p.16, paragraph 83)
+	- Chapter ?
+		- Explain best practices recommended by the Basel committee for the assessment, management, mitigation, and monitoring of money laundering and financing of terrorism (ML/FT) risks.
+		- Describe recommended practices for the acceptance, verification, and identification of customers at a bank.
+		- Explain practices for managing ML/FT risks in a group-wide and cross-border context.
+- Global Association of Risk Professionals, Operational Risk and Resilience (New York, NY: Pearson, 2022).
+	- Chapter 11. Case Study: Financial Crime and Fraud
+		- Describe elements of a control framework to manage financial fraud risk and money laundering risk.
+		- Summarize the regulatory findings and describe the lessons learned from the USAA case study.
+- “Guidance on Managing Outsourcing Risk,” Board of Governors of the Federal Reserve System (December 2013). 
+	- Chapter ?
+		- Explain how risks can arise through outsourcing activities to third-party service providers and describe elements of an effective program to manage outsourcing risk.
+		- Explain how financial institutions should perform due diligence on third-party service providers.
+		- Describe topics and provisions that should be addressed in a contract with a third-party service provider.
+- Global Association of Risk Professionals, Operational Risk and Resilience (New York, NY: Pearson, 2022).
+	- Chapter 13. Case Study: Third-Party Risk Management
+		- Explain how risks related to the use of third parties can arise and describe characteristics of an effective third-party risk management framework.
+		- Describe the lessons learned from the presented case studies.
+	- Chapter 14. Case Study: Investor Protection and Compliance Risks in Investment Activities
+		- Summarize important regulations designed to protect investors in financial instruments, including MiFiD, MiFiD II, and Dodd-Frank.
+		- Describe lessons learned from the case studies involving violations of investor protection or compliance regulations.
+- “Supervisory Guidance on Model Risk Management,” Federal Deposit Insurance Corporation (June 2017). 
+	- Chapter ?
+		- Describe model risk and explain how it can arise in the implementation of a model.
+		- Describe elements of an effective model risk management process.
+		- Explain best practices for the development and implementation of models.
+		- Describe elements of a strong model validation process and challenges to an effective validation process.
+- Global Association of Risk Professionals, Operational Risk and Resilience (New York, NY: Pearson, 2022).
+	- Chapter 16. Case Study: Model Risk and Model Validation
+		- Define a model and describe different ways that financial institutions can become exposed to model risk.
+		- Describe the role of the model risk management function and explain best practices in the model risk management and validation processes.
+		- Describe lessons learned from the three case studies involving model risk.
+- Til Schuermann, “Stress Testing Banks,” International Journal of Forecasting, (30:3, pp. 717–728, 2014).
+	- Chapter ?
+		- Describe the evolution of the stress testing process and compare the methodologies of historical European Banking Association (EBA), Comprehensive Capital Analysis and Review (CCAR), and Supervisory Capital Assessment Program (SCAP) stress tests.
+		- Explain challenges in designing stress test scenarios, including the problem of coherence in modeling risk factors.
+		- Explain challenges in modeling a bank’s revenues, losses, and its balance sheet over a stress test horizon period.
+- Michel Crouhy, Dan Galai, and Robert Mark, The Essentials of Risk Management, 2nd Edition (New York, NY: McGraw-Hill, 2014).
 	- 
+
+
 
