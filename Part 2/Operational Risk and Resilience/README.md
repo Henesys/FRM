@@ -15,3 +15,7 @@
 - Risk-adjusted return on capital (RAROC)
 - Economic capital frameworks and capital planning
 - Regulation and the Basel Accords
+
+## Readings
+
+- 

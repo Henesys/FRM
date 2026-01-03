@@ -194,6 +194,60 @@
 		- Describe the differences between funding exposure and credit exposure.
 		- Explain the impact of collateralization on exposure and assess the risk associated with the remargining period, threshold, and minimum transfer amount.
 		- Assess the impact of collateral on counterparty risk and funding, with and without segregation or rehypothecation.
+	- Chapter 17. CVA
+		- Explain the motivation for and the challenges of pricing counterparty risk.
+		- Describe credit value adjustment (CVA).
+		- Calculate CVA and CVA as a spread with no wrong-way risk, netting, or collateralization.
+		- Evaluate the impact of changes in the credit spread and recovery rate assumptions on CVA.
+		- Describe debt value adjustment (DVA) and bilateral CVA (BCVA).
+		- Explain the differences between unilateral CVA (UCVA) and BCVA, and between unilateral DVA (UDVA) and BCVA.
+		- Calculate DVA, BCVA, and BCVA as a spread.
+		- Explain how netting can be incorporated into the CVA calculation.
+		- Define and calculate incremental CVA and marginal CVA and explain how to convert CVA into a running spread.
+		- Explain the impact of incorporating collateralization into the CVA calculation, including the impact of margin period of risk, thresholds, and initial margins.
+		- Describe wrong-way risk and contrast it with right-way risk.
+		- Identify examples of wrong-way risk and examples of right-way risk.
+		- Discuss the impact of collateral on wrong-way risk.
+		- Identify examples of wrong-way collateral.
+		- Discuss the impact of wrong-way risk on central counterparties (CCPs).
+		- Describe the various wrong-way modeling methods including hazard rate approaches, structural approaches, parametric approaches, and jump approaches.
+		- Explain the implications of central clearing on wrong-way risk.
+- Akhtar Siddique and Iftekhar Hasan (eds.), Stress Testing: Approaches, Methods, and Applications (London, UK: Risk Books, 2013).
+	- Chapter 4. The Evolution of Stress Testing Counterparty Exposures
+		- Differentiate among current exposure, peak exposure, expected exposure, and expected positive exposure.
+		- Explain the treatment of counterparty credit risk (CCR) both as a credit risk and as a market risk and describe its implications for trading activities and risk management for a financial institution.
+		- Describe a stress test that can be performed on a loan portfolio, and on a derivative portfolio.
+		- Differentiate between stressed expected loss and stress loss of a credit portfolio, and calculate the stress loss on a loan portfolio and the stress loss on a derivative portfolio.
+		- Describe a stress test that can be performed on CVA.
+		- Calculate the stressed CVA and the stress loss on CVA.
+		- Calculate the DVA and explain how stressing DVA enters into aggregating stress tests of CCR.
+		- Describe the common pitfalls in stress testing CCR.
+- Allan Malz, Financial Risk Management: Models, History, and Institutions (Hoboken, NJ: John Wiley & Sons, 2011).
+	- Chapter 9. Structured Credit Risk
+		- Describe common types of structured products.
+		- Describe tranching and the distribution of credit losses in a securitization.
+		- Describe a waterfall structure in a securitization.
+		- Identify the key participants in the securitization process and describe conflicts of interest that can arise in the process.
+		- Calculate and evaluate one or two iterations of interim cashflows in a three-tiered securitization structure.
+		- Describe the treatment of excess spread in a securitization structure and estimate the value of the overcollateralization account at the end of each year.
+		- Explain the tests on the excess spread that a custodian must go through at the end of each year to determine the cash flow to the overcollateralization account and to the equity noteholders.
+		- Describe a simulation approach to calculating credit losses for different tranches in a securitization.
+		- Explain how the default probabilities and default correlations affect the credit risk in a securitization.
+		- Explain how default sensitivities for tranches are measured.
+		- Describe risk factors that impact structured products.
+		- Define implied correlation and describe how it can be measured.
+		- Identify the motivations for using structured credit products.
+- Moorad Choudhry, Structured Credit Products: Credit Derivatives & Synthetic Securitisation, 2nd Edition (New York, NY: John Wiley & Sons, 2010).
+	- Chapter 12. An Introduction to Securitisation 
+		- Define securitization, describe the securitization process, and explain the role of participants in the process.
+		- Explain the terms over-collateralization, first-loss piece, equity piece, and cash waterfall within the securitization process.
+		- Analyze the differences in the mechanics of issuing securitized products using a trust versus a special purpose vehicle (SPV) and distinguish between the three main SPV structures: amortizing, revolving, and master trust.
+		- Explain the reasons for and the benefits of undertaking securitization.
+		- Describe and assess the various types of credit enhancements.
+		- Explain the various performance analysis tools for securitized structures and identify the asset classes they are most applicable to.
+		- Define and calculate the delinquency ratio, default ratio, monthly payment rate (MPR), debt service coverage ratio (DSCR), the weighted average coupon (WAC), the weighted average maturity (WAM), and the weighted average life (WAL) for relevant securitized structures.
+		- Explain the prepayment forecasting methodologies and calculate the constant prepayment rate (CPR) and the Public Securities Association (PSA) rate
+
 
 
 
