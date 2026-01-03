@@ -30,32 +30,109 @@
 		- Compare and contrast age-weighted, volatility-weighted, correlation-weighted, and filtered historical simulation approaches
 		- Identify advantages and disadvantages of non-parametric estimation methods
 	- Chapter 7. Parametric Approaches (II): Extreme Value
-		- 
+		- Explain the importance and challenges of extreme values in risk management
+		- Describe extreme value theory (EVT) and its use in risk management
+		- Describe the peaks-over-threshold (POT) approach
+		- Compare and contrast the generalized extreme value (GEV) and POT approaches
+		- Discuss the application of the generalized Pareto (GP) distribution in the POT approach
+		- Explain multivariate EVT for risk management
 - Philippe Jorion, Value at Risk: The New Benchmark for Managing Financial Risk, 3rd Edition (New York, NY: McGraw-Hill, 2007).
 	- Chapter 6. Backtesting VaR
-		- 
+		- Describe backtesting and exceptions and explain their importance
+		- Explain the significant difficulties in backtesting VaR models
+		- Evaluate VaR accuracy using failure rates and model verification tests
+		- Identify and describe Type I and Type II errors in backtesting
+		- Explain the need for conditional coverage
+		- Describe the Basel rules for backtesting
 	- Chapter 11. VaR Mapping 
-		- 
+		- Explain the principles and process of VaR mapping
+		- Explain how mapping captures general and specific risks
+		- Calculate general and specific risks given primitive risk factors
+		- Differentiate among the three methods for mapping fixed-income portfolios
+		- Summarize mapping into positions of standard instruments
+		- Describe how risk factor mapping supports stress testing
+		- Explain VaR relative to a performance benchmark
+		- Describe mapping of forwards, FRAs, swaps, and options
 - David Lynch, Iftekhar Hasan, and Akhtar Siddique (eds.), Validation of Risk Management Models for Financial Institutions (Cambridge University Press, 2023).
 	- Chapter 2. Validating Bank Holding Companies’ Value-at-Risk Models for Market Risk
-		- 
+		- Describe considerations for assessing conceptual soundness of VaR models
+		- Explain how to conduct sensitivity analysis for a VaR model
+		- Describe benefits and challenges of sensitivity analysis
+		- Describe challenges in calculating confidence intervals for VaR
+		- Discuss challenges in benchmarking VaR models and proposed solutions
 	- Chapter 4. Beyond Exceedance-Based Backtesting of Value-at-Risk Models: Methods for Backtesting the Entire
-		- 
-Forecasting Distribution Using Probability Integral Transform 
+		- Identify properties of accurate exceedance-based backtests
+		- Explain how these properties appear in PIT-based backtests
+		- Explain how to derive probability integral transforms (PITs)
+		- Describe how PIT distributions indicate VaR model quality
+		- Compare goodness-of-fit tests: Kolmogorov–Smirnov, Anderson–Darling, Cramér–von Mises Forecasting Distribution Using Probability Integral Transform 
 - Gunter Meissner, Correlation Risk Modeling and Management, 2nd Edition (Risk Books, 2019).
 	- Chapter 1. Correlation Basics: Definitions, Applications, and Terminology 
+		- Describe financial correlation risk and where it appears
+		- Explain correlation’s role in the 2007–2009 financial crisis
+		- Describe correlation effects on quanto and exotic options
+		- Describe the structure, uses, and payoffs of correlation swaps
+		- Estimate correlation impacts on VaR capital charges
+		- Explain correlation risk in market and credit risk
+		- Explain links to systemic and concentration risk
 	- Chapter 2. Empirical Properties of Correlation: How Do Correlations Behave in the Real World?
+		- Describe equity correlations and correlation volatility across economic states
+		- Calculate mean reversion rates and autocorrelations using regression
+		- Identify best-fit distributions for equity, bond, and default correlations
 	- Chapter 5. Financial Correlation Modeling — Bottom-Up Approaches (pp. 126-134 only) 
+		- Explain the purpose of copula functions
+		- Describe the Gaussian copula and joint default probabilities
+		- Summarize default-time modeling using Gaussian copulas
 - Bruce Tuckman and Angel Serrat, Fixed Income Securities: Tools for Today’s Markets, 4th Edition (Hoboken, NJ: John Wiley & Sons, 2022).
 	- Chapter 6. Regression Hedging and Principal Component Analysis
+		- Explain drawbacks of DV01-neutral hedging
+		- Describe regression hedging and its advantages
+		- Calculate regression hedge beta
+		- Calculate hedge position sizes
+		- Calculate positions for two-variable regression hedges
+		- Compare level and change regressions
+		- Explain reverse regression issues
+		- Describe principal component analysis for hedging
 	- Chapter 7. Arbitrage Pricing with Term Structure Models 
+		- Calculate expected discounted values using binomial trees
+		- Construct arbitrage arguments for option pricing
+		- Define and apply risk-neutral pricing
+		- Explain true vs risk-neutral probabilities
+		- Extend arbitrage pricing over multiple periods
+		- Define and apply option-adjusted spread (OAS)
+		- Describe recombining trees
+		- Calculate constant-maturity Treasury swap values
+		- Evaluate time-step size effects
+		- Assess Black–Scholes–Merton for fixed-income derivatives
 	- Chapter 8. Expectations, Risk Premium, Convexity, and the Shape of the Term Structure 
+		- Explain interest rate expectations and yield curve shape
+		- Apply risk-neutral trees to assess volatility effects
+		- Estimate convexity using Jensen’s inequality
+		- Decompose bond returns
+		- Calculate expected bond returns for risk-averse investors
 - Bruce Tuckman and Angel Serrat, Fixed Income Securities: Tools for Today’s Markets, 3rd Edition (Hoboken, NJ: John Wiley & Sons, 2011).
 	- Chapter 9. The Art of Term Structure Models: Drift
+		- Construct short-rate trees with and without drift
+		- Calculate rate changes and standard deviations
+		- Describe methods for addressing negative interest rates
+		- Construct Ho–Lee trees
+		- Explain arbitrage-free model fitting
+		- Construct Vasicek trees
+		- Calculate Vasicek dynamics and half-life
+		- Assess Vasicek model effectiveness
 	- Chapter 10. The Art of Term Structure Models: Volatility and Distribution
+		- Describe time-dependent volatility models
+		- Calculate rate changes under such models
+		- Assess model efficacy
+		- Describe CIR and lognormal models
+		- Calculate basis point volatility
+		- Describe lognormal models with deterministic drift and mean reversion
 - Bruce Tuckman and Angel Serrat, Fixed Income Securities: Tools for Today’s Markets, 4th Edition (Hoboken, NJ: John Wiley & Sons, 2022).
 	- Chapter 9. The Vasicek and Gauss+ Models
-- John C. Hull, Options, Futures, and Other Derivatives, 11th Edition (New York, NY: Pearson, 2022).
+		- 
+- <mark style="background: #BBFABBA6;">John C. Hull, Options, Futures, and Other Derivatives, 11th Edition (New York, NY: Pearson, 2022).</mark>
 	- Chapter 20. Volatility Smiles and Volatility Surfaces
+		- 
 - John C. Hull, Risk Management and Financial Institutions, 6th Edition (Hoboken, NJ: John Wiley & Sons, 2023).
 	- Chapter 18. Fundamental Review of the Trading Book
+		- 
