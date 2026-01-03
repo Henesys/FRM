@@ -109,7 +109,81 @@
 		- Explain challenges in designing stress test scenarios, including the problem of coherence in modeling risk factors.
 		- Explain challenges in modeling a bank’s revenues, losses, and its balance sheet over a stress test horizon period.
 - Michel Crouhy, Dan Galai, and Robert Mark, The Essentials of Risk Management, 2nd Edition (New York, NY: McGraw-Hill, 2014).
-	- 
+	- Chapter 17. Risk Capital Attribution and Risk-Adjusted Performance Measurement 
+		- Define, compare, and contrast risk capital, economic capital, and regulatory capital and explain methods and motivations for using economic capital approaches to allocate risk capital.
+		- Describe the RAROC (risk-adjusted return on capital) methodology and its use in capital budgeting.
+		- Calculate and interpret the RAROC for a project, loan, or loan portfolio and use RAROC to compare business unit performance.
+		- Explain challenges that arise when using RAROC for performance measurement, including choosing a time horizon, measuring default probability, and choosing a confidence level.
+		- Calculate the hurdle rate and apply this rate in making business decisions using RAROC.
+		- Calculate the adjusted RAROC for a project to determine its viability.
+		- Explain challenges in modeling diversification benefits, including aggregating a firm’s risk capital and allocating economic capital to different business lines.
+		- Explain best practices in implementing an approach that uses RAROC to allocate economic capital.
+- “Range of practices and issues in economic capital frameworks,” Basel Committee on Banking Supervision Publication (March 2009).
+	- Chapter ?
+		- Within the economic capital implementation framework, describe the challenges that appear in:
+		- Defining and calculating risk measures
+		- Risk aggregation
+		- Validation of models
+		- Dependency modeling in credit risk
+		- Evaluating counterparty credit risk
+		- Assessing interest rate risk in the banking book
+		- Describe the recommendations by the Bank for International Settlements (BIS) that supervisors should consider in order to make effective use of internal risk measures, such as economic capital, that are not designed for regulatory purposes.
+		- Explain benefits and impacts of using an economic capital framework within the following areas:
+		- Credit portfolio management
+		- Risk-based pricing
+		- Customer profitability analysis
+		- Management incentives
+		- Describe best practices and assess key concerns for the governance of an economic capital framework.
+- “Capital Planning at Large Bank Holding Companies: Supervisory Expectations and Range of Current Practice,” Board of Governors of the Federal Reserve System (August 2013). 
+	- Chapter ?
+		- Describe the Federal Reserve’s Capital Plan Rule and explain the seven principles of an effective capital adequacy process for bank holding companies (BHCs) subject to the Capital Plan Rule.
+		- Describe practices that can result in a strong and effective capital adequacy process for a BHC in the following areas:
+		- Risk identification
+		- Internal controls, including model review and validation
+		- Corporate governance
+		- Capital policy, including setting of goals and targets and contingency planning
+		- Stress testing and stress scenario design
+		- Estimating losses, revenues, and expenses, including quantitative and qualitative methodologies
+		- Assessing the impact of capital adequacy, including risk-weighted asset (RWA) and balance sheet projections
+- Mark Carey, “Capital Regulation Before the Global Financial Crisis,” GARP Risk Institute (April 2019). 
+	- Chapter ?
+		- Explain the motivations for introducing the Basel regulations, including key risk exposures addressed, and explain the reasons for revisions to Basel regulations over time.
+		- Explain the calculation of risk-weighted assets and the capital requirement per the original Basel I guidelines.
+		- Describe measures introduced in the 1995 and 1996 amendments, including guidelines for netting of credit exposures and methods for calculating market risk capital for assets in the trading book.
+		- Describe changes to the Basel regulations made as part of Basel II, including the three pillars.
+		- Compare the standardized internal ratings-based (IRB) approach, the foundation IRB approach, and the advanced IRB approach for the calculation of credit risk capital under Basel II.
+		- Calculate credit risk capital under Basel II utilizing the IRB approach.
+		- Compare the basic indicator approach, the standardized approach, and the advanced measurement approach for the calculation of operational risk capital under Basel II.
+		- Summarize elements of the Solvency II capital framework for insurance companies.
+- Mark Carey, “Solvency, Liquidity, and Other Regulation After the Global Financial Crisis,” GARP Risk Institute (April 2019).
+	- Chapter ?
+		- Describe and calculate the stressed VaR introduced in Basel 2.5 and calculate the market risk capital charge.
+		- Explain the process of calculating the incremental risk capital charge for positions held in a bank’s trading book.
+		- Describe the comprehensive risk (CR) capital charge for portfolios of positions that are sensitive to correlations between default risks.
+		- Define in the context of Basel III and calculate where appropriate:
+		- Tier 1 capital and its components
+		- Tier 2 capital and its components
+		- Required Tier 1 equity capital, total Tier 1 capital, and total capital
+		- Describe the motivations for and calculate the capital conservation buffer and the countercyclical buffer, including special rules for globally systemically important banks (G-SIBs).
+		- Describe and calculate ratios intended to improve the management of liquidity risk, including the required leverage ratio, the liquidity coverage ratio, and the net stable funding ratio.
+		- Describe the mechanics of contingent convertible bonds (CoCos) and explain the motivations for banks to issue them.
+		- Provide examples of legislative and regulatory reforms that were introduced after the 2007-2009 financial crisis.
+- “High-level summary of Basel III reforms,” Basel Committee on Banking Supervision Publication (December 2017).
+	- Chapter ?
+		- Explain the motivations for revising the Basel III framework and the goals and impacts of the December 2017 reforms to the Basel III framework.
+		- Summarize the December 2017 revisions to the Basel III framework in the following areas:
+		- The standardized approach to credit risk
+		- The internal ratings-based (IRB) approaches for credit risk
+		- The CVA risk framework
+		- The operational risk framework
+		- The leverage ratio framework
+		- Describe the revised output floor introduced as part of the Basel III reforms and approaches to be used when calculating the output floor.
+- “Basel III: Finalising post-crisis reforms,” Basel Committee on Banking Supervision Publication (December 2017; pp. 128-136).
+	- Chapter ?
+		- Explain the elements of the new standardized approach to measure operational risk capital, including the business indicator, internal loss multiplier, and loss component, and calculate the operational risk capital requirement for a bank using this approach.
+		- Compare the Standardized Measurement Approach (SMA) to earlier methods of calculating operational risk capital, including the Advanced Measurement Approaches (AMA).
+		- Describe general and specific criteria recommended by the Basel Committee for the identification, collection, and treatment of operational loss data.
+
 
 
 
