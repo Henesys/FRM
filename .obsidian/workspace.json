@@ -6,7 +6,7 @@
       {
         "id": "1b965f0c20a47815",
         "type": "tabs",
-        "dimension": 67.37120211360634,
+        "dimension": 56.40686922060766,
         "children": [
           {
             "id": "a2ad97afceb236fd",
@@ -27,7 +27,7 @@
       {
         "id": "e28154fd54b111e6",
         "type": "tabs",
-        "dimension": 32.628797886393656,
+        "dimension": 43.59313077939234,
         "children": [
           {
             "id": "e5d5a8f47474ee07",
@@ -253,9 +253,9 @@
   },
   "active": "a2ad97afceb236fd",
   "lastOpenFiles": [
-    "Part 1/Valuation and Risk Protocols/README.md",
-    "Part 2/Market Risk Measurement and Management/README.md",
     "README.md",
+    "Part 2/Market Risk Measurement and Management/README.md",
+    "Part 1/Valuation and Risk Protocols/README.md",
     "Part 1/Financial Markets and Products/README.md",
     "Part 1/Foundations of Risk Management/README.md",
     "Part 1/Quantitative Analysis/README.md",

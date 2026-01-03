@@ -129,10 +129,25 @@
 		- Describe lognormal models with deterministic drift and mean reversion
 - Bruce Tuckman and Angel Serrat, Fixed Income Securities: Tools for Today’s Markets, 4th Edition (Hoboken, NJ: John Wiley & Sons, 2022).
 	- Chapter 9. The Vasicek and Gauss+ Models
-		- 
+		- Describe the Gauss+ model structure
+		- Compare Vasicek and Gauss+ models
+		- Calculate factor changes under the Gauss+ model
+		- Explain parameter estimation methods
 - <mark style="background: #BBFABBA6;">John C. Hull, Options, Futures, and Other Derivatives, 11th Edition (New York, NY: Pearson, 2022).</mark>
 	- Chapter 20. Volatility Smiles and Volatility Surfaces
-		- 
+		- Describe volatility smiles and skews
+		- Explain put-call parity implications
+		- Relate volatility smiles to implied distributions
+		- Describe FX volatility characteristics
+		- Explain equity and FX volatility smile shapes
+		- Describe alternative smile representations
+		- Describe volatility term structures and surfaces
+		- Explain volatility smile impact on Greeks
+		- Explain jump effects on volatility smiles
 - John C. Hull, Risk Management and Financial Institutions, 6th Edition (Hoboken, NJ: John Wiley & Sons, 2023).
 	- Chapter 18. Fundamental Review of the Trading Book
-		- 
+		- Describe FRTB changes and motivations
+		- Compare liquidity horizons and expected shortfall calculations
+		- Explain FRTB revisions related to trading vs banking book classification
+		- Explain FRTB revisions related to backtesting and P&L attribution
+		- Explain FRTB revisions related to credit risk and securitizations
