@@ -21,6 +21,11 @@
 		- Describe the entities that are exposed to credit risk and explain circumstances under which exposure occurs.
 		- Discuss the motivations for managing or taking on credit risk.
 	- Chapter 2. Governance 
+		- Define risk management responsibilities in an organization and explain the three lines of defense framework for effective risk management and control.
+		- Explain the processes that lead to risk taking including credit origination, credit risk assessment, and credit approval processes.
+		- Discuss the following key principles underlying best practice for the governance system of credit risk: Guidelines, Skills, Limits, and Oversight.
+		- Describe the most common parameters of a credit-sensitive transaction.
+		- Describe the roles of the credit committee in an organization.
 - Hennie van Greuning and Sonja Brajovic Bratanovic, Analyzing Banking Risk, 4th Edition (World Bank Group, 2020)
 	- Chapter 7. Credit Risk Management
 		- Describe key elements of an effective lending or financing policy
@@ -68,6 +73,47 @@
 		- Describe scorecard performance measures: CAP and accuracy ratio (AR)
 		- Describe the customer relationship cycle and profitability trade-offs
 		- Discuss benefits of risk-based pricing
-- Aswath Damodaran — Country Risk (2022) 
-	- 
+- Aswath Damodaran, Country Risk: Determinants, Measures, and Implications – The 2022 Edition (2022)
+	- Chapter ?
+		- Identify and explain the different sources of country risk.
+		- Evaluate the methods for measuring country risk and discuss the limitations of using those methods.
+		- Compare and contrast foreign currency defaults and local currency defaults.
+		- Explain the consequences of a country’s default.
+		- Discuss measures of sovereign default risk and describe components of a sovereign rating.
+		- Describe the shortcomings of the sovereign rating systems of rating agencies.
+		- Compare the use of credit ratings, market-based credit default spreads, and CDS spreads in predicting default.
+- John C. Hull, Risk Management and Financial Institutions, 6th Edition (John Wiley & Sons, 2023).
+	- Chapter 17. Estimating Default Probabilities 
+		- Compare agencies’ ratings to internal credit rating systems.
+		- Describe Altman’s Z-score methodology and apply it to predict a firm’s default and to classify a sample of firms by credit quality.
+		- Describe the relationship between borrower rating and probability of default.
+		- Describe a rating migration matrix and calculate the probability of default, cumulative probability of default, and marginal probability of default.
+		- Define the hazard rate and use it to define probability functions for default time as well as to calculate conditional and unconditional default probabilities.
+		- Describe recovery rates and their dependencies on default rates.
+		- Define a credit default swap (CDS) and explain its mechanics including the obligations of both the default protection buyer and the default protection seller.
+		- Describe CDS spreads and explain how CDS spreads can be used to estimate hazard rates.
+		- Define and explain CDS-bond basis.
+		- Compare default probabilities calculated from historical data with those calculated from credit yield spreads.
+		- Describe the difference between real-world and risk-neutral default probabilities and determine which one to use in the analysis of credit risk.
+		- Calculate the value of a firm’s debt and equity, the volatility of firm value, and the volatility of firm equity using the Merton model.
+		- Calculate distance to default and default probability using the Merton model.
+		- Assess the quality of the default probabilities produced by the Merton model, the Moody’s KMV model, and the Kamakura model.
+	- Chapter 19. Credit Value at Risk
+		- Compare market risk value at risk (VaR) with credit VaR in terms of definition, time horizon, and tools for measuring them.
+		- Define and calculate Credit VaR.
+		- Describe the use of rating transition matrices for calculating credit VaR.
+		- Describe the application of the Vasicek’s model to estimate capital requirements under the Basel II internal-ratings-based (IRB) approach.
+		- Explain the Vasicek’s model, Credit Risk Plus (CreditRisk+) model, and the CreditMetrics ways of estimating the probability distribution of losses arising from defaults as well as modeling the default correlation.
+		- Define credit spread risk and assess its impact on calculating credit VaR.
+- Allan Malz, Financial Risk Management: Models, History, and Institutions (Hoboken, NJ: John Wiley & Sons, 2011). 
+	- Chapter 8. Portfolio Credit Risk (Sections 8.1, 8.2, 8.3 only)
+		- Define and calculate default correlation for credit portfolios.
+		- Identify drawbacks in using the correlation-based credit portfolio framework.
+		- Assess the impact of correlation on a credit portfolio and its Credit VaR.
+		- Describe the use of a single factor model to measure portfolio credit risk, including the impact of correlation.
+		- Define beta and calculate the asset return correlation of any pair of firms using the single factor model.
+		- Estimate the probability of a joint default of any pair of credits and the default correlation between any pair of credits using the single factor model.
+		- Describe how Credit VaR can be calculated using a simulation of joint defaults.
+		- Assess the effect of granularity on Credit VaR.
+
 
