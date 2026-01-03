@@ -17,7 +17,13 @@
 ## Readings 
 
 - Kevin Dowd, Measuring Market Risk, 2nd Edition (West Sussex, UK: John Wiley & Sons, 2005).
-	- 
+	- Chapter 3. Estimating Market Risk Measures: An Introduction and Overview
+		- Estimate VaR using a historical simulation approach
+		- Estimate VaR using a parametric approach for both normal and lognormal asset price distributions
+		- Estimate the expected shortfall given profit and loss (P&L) or return data
+		- Estimate risk measures by estimating quantiles
+		- Evaluate estimators of risk measures by estimating their standard errors
+		- Interpret quantile-quantile (QQ) plots to identify the characteristics of a distribution
 - Philippe Jorion, Value at Risk: The New Benchmark for Managing Financial Risk, 3rd Edition (New York, NY: McGraw-Hill, 2007).
 	- 
 - David Lynch, Iftekhar Hasan, and Akhtar Siddique (eds.), Validation of Risk Management Models for Financial Institutions (Cambridge University Press, 2023).
