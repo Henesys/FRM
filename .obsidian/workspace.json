@@ -42,6 +42,7 @@
           {
             "id": "05d81b67612245a3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,6 +50,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "README"
             }
